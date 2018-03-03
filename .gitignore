@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# master thesis files
+msc_thesis_source_code.zip
+src/Lib/ESS-1_1/ess
+src/Lib/liblbfgs/liblbfgs-1.10
+src/Binaries/*
+src/Exec/*
